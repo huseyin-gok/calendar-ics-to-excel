@@ -1,4 +1,4 @@
-Calendar ICS dosyalarını Excel'e dönüştüren masaüstü uygulaması
+<img width="703" height="581" alt="image" src="https://github.com/user-attachments/assets/50e8588f-02d8-4e67-b90c-b6080df857c5" />Calendar ICS dosyalarını Excel'e dönüştüren masaüstü uygulaması
 # 📅 Calendar ICS → Excel Converter
 
 Google Calendar etkinliklerinizi ICS formatından Excel (.xlsx) veya CSV (.csv) formatına dönüştüren modern bir masaüstü uygulaması.
@@ -122,10 +122,8 @@ Oluşturulan Excel dosyası aşağıdaki sütunları içerir:
 - CSV formatında HTML formatlaması korunmaz (sadece düz metin)
 - Çok büyük ICS dosyaları (10.000+ etkinlik) işlenirken biraz zaman alabilir
 
+<img width="703" height="581" alt="image" src="https://github.com/user-attachments/assets/ab89d34b-bd43-4cab-81f0-ad1bfac2571b" />
 
-## 👤 Yazar
-
-Proje geliştiricisi tarafından oluşturulmuştur.
 
 
 ---
